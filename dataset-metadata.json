@@ -1,0 +1,38 @@
+{
+  "id": "danielbechenea/tickerseer-open-data",
+  "title": "tickerseer open data",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "resources": [
+    {
+      "path": "ledger-rows.csv"
+    },
+    {
+      "path": "ledger-scorecard/2026-W41.csv"
+    },
+    {
+      "path": "market-structure/2026-08.csv"
+    },
+    {
+      "path": "market-structure/2026-09.csv"
+    },
+    {
+      "path": "market-structure/2026-10.csv"
+    },
+    {
+      "path": "valuation-temperature/2026-07.csv"
+    },
+    {
+      "path": "valuation-temperature/2026-08.csv"
+    },
+    {
+      "path": "valuation-temperature/2026-09.csv"
+    },
+    {
+      "path": "valuation-temperature/2026-10.csv"
+    }
+  ]
+}

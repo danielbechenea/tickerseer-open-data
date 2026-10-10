@@ -1,0 +1,56 @@
+month,table,rank,sub_industry,median_peg,fwd_growth_pct,above_normal_pe_pct,universe
+2026-10,cheapest,1,Passenger Airlines,0.4,34.4,,us
+2026-10,cheapest,2,Oil & Gas Refining & Marketing,0.41,28.1,,us
+2026-10,cheapest,3,Diversified Financial Services,0.42,17.8,,us
+2026-10,cheapest,4,Automotive Parts & Equipment,0.61,17.6,,us
+2026-10,cheapest,5,Advertising,0.65,24.5,,us
+2026-10,cheapest,6,Commercial & Residential Mortgage Finance,0.65,12.9,,us
+2026-10,cheapest,7,Consumer Finance,0.66,22.6,,us
+2026-10,cheapest,8,Interactive Home Entertainment,0.66,69.7,,us
+2026-10,cheapest,9,Independent Power Producers & Energy Traders,0.72,38.7,,us
+2026-10,cheapest,10,Mortgage REITs,0.74,8.8,,us
+2026-10,quadrant,1,Passenger Airlines,0.4,34.4,,us
+2026-10,quadrant,2,Oil & Gas Refining & Marketing,0.41,28.1,,us
+2026-10,quadrant,3,Diversified Financial Services,0.42,17.8,,us
+2026-10,quadrant,4,Automotive Parts & Equipment,0.61,17.6,,us
+2026-10,quadrant,5,Advertising,0.65,24.5,,us
+2026-10,quadrant,6,Consumer Finance,0.66,22.6,,us
+2026-10,quadrant,7,Interactive Home Entertainment,0.66,69.7,,us
+2026-10,quadrant,8,Independent Power Producers & Energy Traders,0.72,38.7,,us
+2026-10,quadrant,9,Real Estate Services,0.81,28.3,,us
+2026-10,quadrant,10,Transaction & Payment Processing Services,0.88,17.0,,us
+2026-10,quadrant,11,Technology Distributors,0.88,15.5,,us
+2026-10,quadrant,12,Apparel Accessories & Luxury Goods,0.9,15.7,,us
+2026-10,quadrant,13,Education Services,0.91,20.0,,us
+2026-10,quadrant,14,Diversified Support Services,0.91,24.4,,us
+2026-10,quadrant,15,Food Distributors,0.92,19.4,,us
+2026-10,quadrant,16,Electronic Manufacturing Services,0.93,29.6,,us
+2026-10,quadrant,17,Automobile Manufacturers,0.94,14.9,,us
+2026-10,quadrant,18,Commodity Chemicals,0.94,28.1,,us
+2026-10,quadrant,19,Interactive Media & Services,0.97,16.7,,us
+2026-10,quadrant,20,Oil & Gas Equipment & Services,1.0,26.8,,us
+2026-10,quadrant,21,Construction & Engineering,1.05,26.9,,us
+2026-10,quadrant,22,Gold,1.07,15.7,,us
+2026-10,quadrant,23,Leisure Products,1.1,24.1,,us
+2026-10,quadrant,24,Biotechnology,1.1,27.5,,us
+2026-10,quadrant,25,Technology Hardware Storage & Peripherals,1.1,18.5,,us
+2026-10,quadrant,26,Communications Equipment,1.19,26.3,,us
+2026-10,quadrant,27,Cargo Ground Transportation,1.2,26.0,,us
+2026-10,quadrant,28,Construction Machinery & Heavy Transportation Equipment,1.21,16.8,,us
+2026-10,quadrant,29,Broadcasting,1.21,22.7,,us
+2026-10,quadrant,30,Diversified Metals & Mining,1.22,30.3,,us
+2026-10,quadrant,31,Semiconductor Materials & Equipment,1.25,36.4,,us
+2026-10,quadrant,32,Electronic Components,1.27,39.6,,us
+2026-10,quadrant,33,Application Software,1.28,17.5,,us
+2026-10,quadrant,34,Broadline Retail,1.29,19.6,,us
+2026-10,quadrant,35,Fertilizers & Agricultural Chemicals,1.31,26.5,,us
+2026-10,richest_vs_history,1,Electronic Components,,,120.2,us
+2026-10,richest_vs_history,2,Electronic Manufacturing Services,,,96.8,us
+2026-10,richest_vs_history,3,Semiconductor Materials & Equipment,,,65.9,us
+2026-10,richest_vs_history,4,Semiconductors,,,47.6,us
+2026-10,richest_vs_history,5,Communications Equipment,,,37.1,us
+2026-10,richest_vs_history,6,Trading Companies & Distributors,,,31.1,us
+2026-10,richest_vs_history,7,Electrical Components & Equipment,,,30.7,us
+2026-10,richest_vs_history,8,Cargo Ground Transportation,,,30.2,us
+2026-10,richest_vs_history,9,Aerospace & Defense,,,24.1,us
+2026-10,richest_vs_history,10,Life Sciences Tools & Services,,,22.5,us

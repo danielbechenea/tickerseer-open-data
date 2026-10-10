@@ -1,0 +1,13 @@
+month,key,value,universe
+2026-10,rows_total,1543,us
+2026-10,rows_paired,1105,us
+2026-10,rows_with_usable_cap,1102,us
+2026-10,share_winsorised,0.081,us
+2026-10,median_overvaluation_pct,-13.4,us
+2026-10,mean_overvaluation_pct,-3.3,us
+2026-10,share_above_20pct_over_norm,0.247,us
+2026-10,cap_weighted_overvaluation_pct,4.4,us
+2026-10,top50_cap_weighted_overvaluation_pct,15.1,us
+2026-10,median_expected_annual_ror,15.3,us
+2026-10,share_in_sell_zone,0.148,us
+2026-10,median_peg_positive_growth,1.38,us

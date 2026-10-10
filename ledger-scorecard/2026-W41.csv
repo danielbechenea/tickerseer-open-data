@@ -1,0 +1,8 @@
+as_of,group,name,wins,losses,total,win_rate_pct
+2026-10-05,by_structure,Bear Call Spread,24,3,27,88.9
+2026-10-05,by_structure,Bear Put Spread,0,2,2,0.0
+2026-10-05,by_structure,Bull Call Spread,11,19,30,36.7
+2026-10-05,by_structure,Bull Put Spread,75,13,88,85.2
+2026-10-05,by_structure,Long Call,0,2,2,0.0
+2026-10-05,by_direction,Bearish,24,5,29,82.8
+2026-10-05,by_direction,Bullish,86,34,120,71.7
