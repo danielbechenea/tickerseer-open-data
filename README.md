@@ -28,7 +28,7 @@ the site. Per-stock ratings are not in this dataset.
 
 ## valuation-temperature/<YYYY-MM>.csv
 
-The monthly Valuation Temperature tables (https://tickerseer.com/reports/valuation-temperature):
+The monthly Valuation Temperature tables (<https://tickerseer.com/reports/valuation-temperature>):
 `cheapest` (sub-industries by median PEG, with forward growth), `quadrant`
 (the quality-against-value quadrant) and `richest_vs_history` (sub-industries
 most above their own historical normal P/E) and, where the month file
@@ -43,13 +43,13 @@ discloses its own share.
 
 The settled earnings-week calls tickerseer published since 2026-05-11,
 as of 2026-10-05. `ledger-rows.csv` is the same file the site serves at
-https://tickerseer.com/track-record.csv: one row per settled call, with a modeled dollar
+<https://tickerseer.com/track-record.csv>: one row per settled call, with a modeled dollar
 withheld where the reconstruction is marked suspect. The scorecard is the
-per-structure and per-direction tally from https://tickerseer.com/research. Method pages:
-https://tickerseer.com/docs (the ratings and valuation signals), https://tickerseer.com/indices/methodology
-(the paper indices), https://tickerseer.com/track-record#methodology (how a call is graded).
+per-structure and per-direction tally from <https://tickerseer.com/research>. Method pages:
+<https://tickerseer.com/docs> (the ratings and valuation signals), <https://tickerseer.com/indices/methodology>
+(the paper indices), <https://tickerseer.com/track-record#methodology> (how a call is graded).
 
 ## Licence and citation
 
-CC BY 4.0. Cite as: tickerseer, "tickerseer open data", https://tickerseer.com, retrieved <date>.
+CC BY 4.0. Cite as: tickerseer, "tickerseer open data", <https://tickerseer.com>, retrieved on the date you read it.
 Kaggle id: tickerseer/tickerseer-open-data.
