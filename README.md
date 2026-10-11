@@ -52,4 +52,4 @@ https://tickerseer.com/docs (the ratings and valuation signals), https://tickers
 ## Licence and citation
 
 CC BY 4.0. Cite as: tickerseer, "tickerseer open data", https://tickerseer.com, retrieved <date>.
-Kaggle id: danielbechenea/tickerseer-open-data.
+Kaggle id: tickerseer/tickerseer-open-data.
