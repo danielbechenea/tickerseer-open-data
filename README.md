@@ -18,6 +18,7 @@ the site. Per-stock ratings are not in this dataset.
 
 - `ledger-rows.csv`
 - `ledger-scorecard/2026-W41.csv`
+- `ledger-scorecard/2026-W42.csv`
 - `market-structure/2026-08.csv`
 - `market-structure/2026-09.csv`
 - `market-structure/2026-10.csv`
@@ -42,7 +43,7 @@ discloses its own share.
 ## ledger-scorecard/<YYYY-Www>.csv and ledger-rows.csv
 
 The settled earnings-week calls tickerseer published since 2026-05-11,
-as of 2026-10-05. `ledger-rows.csv` is the same file the site serves at
+as of 2026-10-12. `ledger-rows.csv` is the same file the site serves at
 <https://tickerseer.com/track-record.csv>: one row per settled call, with a modeled dollar
 withheld where the reconstruction is marked suspect. The scorecard is the
 per-structure and per-direction tally from <https://tickerseer.com/research>. Method pages:
